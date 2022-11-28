@@ -1,0 +1,1 @@
+End-to-end encryption is a system that ensures that only the users involved in the communication can understand and read the messages. Many applications use end-to-end encryption to protect their users’ data.
